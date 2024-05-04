@@ -38,3 +38,6 @@ Write down the IPs that you think are responsible for serving stories. Once you 
 
 However, be careful with what IPs you block because you may accidentally block Snapchat's messaging server. If you make this mistake, simply remove the incorrect IP from `detected.ip.txt` and rerun the script.
 
+## Contributions
+
+Any improvements to the script are welcome however any successful additions to the `detected.ip.txt` file should be pulled into the repository so we can all have a better no-story Snapchat experience.
