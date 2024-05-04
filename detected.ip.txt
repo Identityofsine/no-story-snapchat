@@ -1,0 +1,10 @@
+35.241.16.93 #story server
+#35.190.43.134 #message server?
+35.244.195.33 #story server
+34.120.159.232 #story server
+108.138.113.246 #discovery query server?
+34.228.127.240 #CDN?
+18.238.57.246 #maybe an ad server
+34.98.105.85 #story server?
+18.213.131.20 #ad server
+
