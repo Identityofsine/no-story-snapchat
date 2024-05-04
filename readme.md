@@ -2,6 +2,12 @@
 This repository contains a script that writes a few rules into the `FORWARD` chain of `iptables`. These rules block a few content servers that Snapchat uses to serve normal and discovery stories. 
 
 This is intended to work with OpenVPN servers running in a Linux Environment.
+
+Basically, this script blocks Snapchat stories including Normal User Stories and Discovery Stories. It does not block messaging or any other Snapchat feature. 
+
+> **Note:** This script is intended to be used with OpenVPN servers running in a Linux environment. It will not work with other VPN servers or on Windows.
+> There are many videos on how to make your own VPN using cheap VPS servers and OpenVPN. I recommend you watch one of those videos if you are new to VPNs.
+
 ## Why?
 It's just a productivity hack that I've been sitting on for a year now. I've been wanting to create a VPN server that blocks out Snapchat stories (which is my greatest vice right now).
 
